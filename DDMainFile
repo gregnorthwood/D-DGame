@@ -1,0 +1,3 @@
+from Dice_DD import nine_di_1
+
+nine_di_1()
